@@ -4,32 +4,33 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Unified Login',
+    Svg: require('@site/static/img/login.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        We help users gain confidence by using Barclays unified login for the donation transactions<br></br>
+        Freepik i think
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Simple Donation Process',
+    Svg: require('@site/static/img/donation.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        We simplify the donation process for individuals who faces dilemma in decision making
+        by using data analytics to inform financially sound decisions<br></br>
+        <a href="https://storyset.com/data">Data illustrations by Storyset</a>
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'Impact Lives',
+    Svg: require('@site/static/img/impacting.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Your donations goes a long way, impacting the lives of those in need<br></br>
+        <a href="https://storyset.com/people">People illustrations by Storyset</a>
       </>
     ),
   },
