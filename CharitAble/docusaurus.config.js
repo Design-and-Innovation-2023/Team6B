@@ -58,6 +58,26 @@ const config = {
     ],
   ],
 
+  plugins: [
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'docs-about',
+        path: 'docs-about',
+        routeBasePath: 'docs-about',
+        sidebarPath: require.resolve('./sidebars.js'),
+      }, 
+    ],
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'docs-spare',
+        path: 'docs-spare',
+        routeBasePath: 'docs-spare',
+        sidebarPath: require.resolve('./sidebars.js'),
+      }, 
+    ],
+],
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
@@ -77,10 +97,14 @@ const config = {
             label: 'Our Project',
           },
           {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
+            to: '/docs-about/intro',
             position: 'left',
-            label: 'Testing Nav',
+            label: 'About Us',
+          },
+          {
+            to: '/docs-spare/intro',
+            position: 'left',
+            label: 'Spare',
           },
           {
             href: 'https://github.com/Design-and-Innovation-2023/Team6B',
