@@ -11,30 +11,26 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-        with:
-          # Set the subfolder to 'CharitAble'
-          path: './CharitAble'
 
-      - uses: actions/setup-node@v3
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
         with:
           node-version: 18
           cache: npm
 
+      - name: Navigate to CharitAble folder
+        run: cd CharitAble
+
       - name: Install dependencies
-        # Change directory to 'CharitAble' before running npm ci
-        # working-directory: ./CharitAble
         run: npm ci
 
       - name: Build website
-        # Change directory to 'CharitAble' before running npm run build
-        # working-directory: ./CharitAble
         run: npm run build
 
-      # The rest of the workflow remains unchanged
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./CharitAble/build
+          publish_dir: ./build
           user_name: github-actions[bot]
           user_email: 41898282+github-actions[bot]@users.noreply.github.com
