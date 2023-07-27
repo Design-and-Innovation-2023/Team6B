@@ -48,8 +48,8 @@ const config = {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/Design-and-Innovation-2023/Team6B',
+          // editUrl:
+          //   'https://github.com/Design-and-Innovation-2023/Team6B',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -94,19 +94,23 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'designProcessSidebar',
             position: 'left',
-            label: 'Our Project',
+            label: 'Design Process',
           },
           {
-            to: '/docs-about/intro',
-            position: 'left',
-            label: 'About Us',
+            to: 'blog', 
+            label: 'Daily Journal', 
+            position: 'left'
           },
           {
             to: '/docs-spare/intro',
             position: 'left',
             label: 'Spare',
           },
-          {to: 'blog', label: 'Blog', position: 'left'}, // or position: 'right'
+          {
+            to: '/docs-about/team-members/',
+            position: 'left',
+            label: 'About Us',
+          },
           {
             href: 'https://github.com/Design-and-Innovation-2023/Team6B',
             label: 'GitHub',
