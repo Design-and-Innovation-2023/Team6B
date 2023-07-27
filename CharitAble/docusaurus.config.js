@@ -78,7 +78,7 @@ const config = {
         title: 'CharitAble',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/Logo.png',
         },
         items: [
           {
@@ -150,6 +150,15 @@ const config = {
             items: [
               {
                 label: 'GitHub',
+                href: 'https://github.com/Design-and-Innovation-2023/Team6B',
+              },
+            ],
+          },
+          {
+            title: 'Attributions',
+            items: [
+              {
+                label: 'View here',
                 href: 'https://github.com/Design-and-Innovation-2023/Team6B',
               },
             ],
