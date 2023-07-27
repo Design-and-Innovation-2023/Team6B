@@ -106,6 +106,7 @@ const config = {
             position: 'left',
             label: 'Spare',
           },
+          {to: 'blog', label: 'Blog', position: 'left'}, // or position: 'right'
           {
             href: 'https://github.com/Design-and-Innovation-2023/Team6B',
             label: 'GitHub',
