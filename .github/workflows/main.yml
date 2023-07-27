@@ -22,12 +22,12 @@ jobs:
 
       - name: Install dependencies
         # Change directory to 'CharitAble' before running npm ci
-        working-directory: ./CharitAble
+        # working-directory: ./CharitAble
         run: npm ci
 
       - name: Build website
         # Change directory to 'CharitAble' before running npm run build
-        working-directory: ./CharitAble
+        # working-directory: ./CharitAble
         run: npm run build
 
       # The rest of the workflow remains unchanged
