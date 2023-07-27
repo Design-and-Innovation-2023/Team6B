@@ -111,25 +111,37 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
+                label: 'Design Process',
                 to: '/docs/intro',
+              },
+              {
+                label: 'Daily Journal',
+                to: '/blog',
+              },
+              {
+                label: 'About Us',
+                to: '/docs-about/team-members',
               },
             ],
           },
           {
-            title: 'Community',
+            title: 'Stakeholders',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Professor Jonathan Grizou',
+                href: 'https://jgrizou.com/',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: 'Barclays',
+                href: 'https://www.barclays.co.uk/',
               },
               {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                label: 'University of Glasgow',
+                href: 'https://www.gla.ac.uk/',
+              },
+              {
+                label: 'Singapore Institute of Technology',
+                href: 'https://www.singaporetech.edu.sg/',
               },
             ],
           },
@@ -137,12 +149,8 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
-              },
-              {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/Design-and-Innovation-2023/Team6B',
               },
             ],
           },
