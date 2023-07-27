@@ -2,9 +2,9 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Project Intro
 
-Let's discover **Docusaurus in less than 5 minutes**.
+This is our project from **Team 6B**.
 
 ## Getting Started
 
