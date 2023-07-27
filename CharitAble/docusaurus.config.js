@@ -68,15 +68,6 @@ const config = {
         sidebarPath: require.resolve('./sidebars.js'),
       }, 
     ],
-    [
-      '@docusaurus/plugin-content-docs',
-      {
-        id: 'docs-spare',
-        path: 'docs-spare',
-        routeBasePath: 'docs-spare',
-        sidebarPath: require.resolve('./sidebars.js'),
-      }, 
-    ],
 ],
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
@@ -100,11 +91,6 @@ const config = {
             to: 'blog', 
             label: 'Daily Journal', 
             position: 'left'
-          },
-          {
-            to: '/docs-spare/intro',
-            position: 'left',
-            label: 'Spare',
           },
           {
             to: '/docs-about/team-members/',
