@@ -41,8 +41,8 @@ const config = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/Design-and-Innovation-2023/Team6B',
+          //editUrl:
+          //  'https://github.com/Design-and-Innovation-2023/Team6B',
         },
         blog: {
           showReadingTime: true,
@@ -92,7 +92,7 @@ const config = {
         items: [
           {
             type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
+            sidebarId: 'designProcessSidebar',
             position: 'left',
             label: 'Our Project',
           },
@@ -157,7 +157,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} CharitAble: Giving Made Simple. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
