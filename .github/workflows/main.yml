@@ -33,11 +33,25 @@ jobs:
       # 👆 Build steps
       - name: Setup Pages
         uses: actions/configure-pages@v3
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v2
+        
+        # Manually create the artifact archive
+      - name: Create Artifact Archive
+        run: |
+          tar -czf github-pages.tar.gz CharitAble/build
+        # Make the artifact available for upload
+        # We will upload the same artifact in the next step
+        # You can adjust the name of the artifact if needed
+        #artifacts:
+          #name: github-pages
+          #path: github-pages.tar.gz
+
+      # Upload the manually created artifact
+      - name: Upload Artifact
+        uses: actions/upload-artifact@v2
         with:
-          # 👇 Specify build output path
-          path: CharitAble/build
+          name: github-pages
+          path: github-pages.tar.gz
+
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v2
