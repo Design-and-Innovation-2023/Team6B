@@ -4,7 +4,7 @@ on:
   push:
     branches:
       - main
-      
+
 jobs:
   deploy:
     environment:
@@ -19,6 +19,7 @@ jobs:
         uses: actions/checkout@v3
         with:
           path: ./CharitAble
+
       # 👇 Build steps
       - name: Set up Node.js
         uses: actions/setup-node@v3
@@ -26,35 +27,16 @@ jobs:
           node-version: 16.x
           # Use 'npm' instead of 'yarn'
           registry-url: 'https://registry.npmjs.org/'
+
       - name: Install dependencies
         run: cd CharitAble && npm install
+
       - name: Build
         run: cd CharitAble && npm run build
       # 👆 Build steps
-      - name: Setup Pages
-        uses: actions/configure-pages@v3
-        
-        # Manually create the artifact archive
-      - name: Create Artifact Archive
-        run: |
-          tar -czf github-pages.tar.gz CharitAble/build
-        # Make the artifact available for upload
-        # We will upload the same artifact in the next step
-        # You can adjust the name of the artifact if needed
-        #artifacts:
-          #name: github-pages
-          #path: github-pages.tar.gz
-
-      # Upload the manually created artifact
-      - name: Upload Artifact
-        uses: actions/upload-artifact@v2
-        with:
-          name: github-pages
-          path: github-pages.tar.gz
 
       - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v2
+        uses: peaceiris/actions-gh-pages@v3
         with:
-          token: ${{ secrets.PAGES_SECRET }}
+          github_token: ${{ secrets.PAGES_SECRET }}
           publish_dir: ./CharitAble/build
