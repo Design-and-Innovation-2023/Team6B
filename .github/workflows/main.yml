@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Navigate to CharitAble folder
-        run: cd CharitAble
+        run: cd ./CharitAble
 
       - uses: actions/checkout@v3
 
