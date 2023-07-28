@@ -57,6 +57,7 @@ jobs:
       - name: Deploy to GitHub Pages
         working-directory: ./CharitAble
         run: |
+          cd ./CharitAble
           git checkout -B gh-pages
           git add build
           git commit -m "Deploy Docusaurus site to GitHub Pages"
