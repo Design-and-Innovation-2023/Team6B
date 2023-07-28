@@ -36,28 +36,17 @@ jobs:
 
       # Popular action to deploy to GitHub Pages:
       # Docs: https://github.com/peaceiris/actions-gh-pages#%EF%B8%8F-docusaurus
-      # - name: Deploy to GitHub Pages
-        # uses: peaceiris/actions-gh-pages@v3
-        # with:
-          # github_token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.PAGES_SECRET }}
           # Update the path to the CharitAble/build folder
-          # publish_dir: ./build
+          publish_dir: ./build
           # The following lines assign commit authorship to the official
           # GH-Actions bot for deploys to `gh-pages` branch:
           # https://github.com/actions/checkout/issues/13#issuecomment-724415212
           # The GH actions bot is used by default if you didn't specify the two fields.
           # You can swap them out with your own user credentials.
-          # user_name: singthaitan
-          # user_email: singthaitan@gmail.com
-      - name: Configure Git
-        run: |
-          git config --global user.name "singthaitan"
-          git config --global user.email "singthaitan@gmail.com"
-
-      - name: Deploy to GitHub Pages
-        working-directory: ./CharitAble
-        run: |
-          git checkout -B gh-pages
-          git add build
-          git commit -m "Deploy Docusaurus site to GitHub Pages"
-          git push origin gh-pages
+          user_name: singthaitan
+          user_email: singthaitan@gmail.com
+      
