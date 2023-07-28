@@ -29,10 +29,10 @@ jobs:
         run: npm cache clean --force
 
       - name: Install dependencies
-        run: npm install
+        run: cd CharitAble && npm install
 
       - name: Build website
-        run: npm run build
+        run: cd CharitAble && npm run build
 
       # Popular action to deploy to GitHub Pages:
       # Docs: https://github.com/peaceiris/actions-gh-pages#%EF%B8%8F-docusaurus
