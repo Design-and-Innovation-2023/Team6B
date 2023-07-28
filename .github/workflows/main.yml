@@ -39,7 +39,7 @@ jobs:
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.PAGES_SECRET }}
           # Update the path to the CharitAble/build folder
           publish_dir: ./build
           # The following lines assign commit authorship to the official
