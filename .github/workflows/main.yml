@@ -18,15 +18,16 @@ jobs:
       - uses: actions/setup-node@v3
         with:
           node-version: 18
-          cache: yarn
+          # Use 'npm' instead of 'yarn'
+          registry-url: 'https://registry.npmjs.org/'
 
       - name: Install dependencies
         # Update the path to the CharitAble folder
-        run: cd CharitAble && yarn install --frozen-lockfile
+        run: cd CharitAble && npm install
 
       - name: Build website
         # Update the path to the CharitAble folder
-        run: cd CharitAble && yarn build
+        run: cd CharitAble && npm run build
 
       # Popular action to deploy to GitHub Pages:
       # Docs: https://github.com/peaceiris/actions-gh-pages#%EF%B8%8F-docusaurus
@@ -43,4 +44,3 @@ jobs:
           # You can swap them out with your own user credentials.
           user_name: github-actions[bot]
           user_email: 41898282+github-actions[bot]@users.noreply.github.com
-
