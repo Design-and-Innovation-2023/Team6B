@@ -1,42 +1,42 @@
-name: Deploy to GitHub Pages
+# name: Deploy to GitHub Pages
 
-on:
-  push:
-    branches:
-      - main
+# on:
+#   push:
+#     branches:
+#       - main
 
-jobs:
-  deploy:
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-latest
-    defaults:
-      run:
-        working-directory: ./CharitAble
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v3
-        with:
-          path: ./CharitAble
+# jobs:
+#   deploy:
+#     environment:
+#       name: github-pages
+#       url: ${{ steps.deployment.outputs.page_url }}
+#     runs-on: ubuntu-latest
+#     defaults:
+#       run:
+#         working-directory: ./CharitAble
+#     steps:
+#       - name: Checkout
+#         uses: actions/checkout@v3
+#         with:
+#           path: ./CharitAble
 
-      # 👇 Build steps
-      - name: Set up Node.js
-        uses: actions/setup-node@v3
-        with:
-          node-version: 16.x
-          # Use 'npm' instead of 'yarn'
-          registry-url: 'https://registry.npmjs.org/'
+#       # 👇 Build steps
+#       - name: Set up Node.js
+#         uses: actions/setup-node@v3
+#         with:
+#           node-version: 16.x
+#           # Use 'npm' instead of 'yarn'
+#           registry-url: 'https://registry.npmjs.org/'
 
-      - name: Install dependencies
-        run: cd CharitAble && npm install
+#       - name: Install dependencies
+#         run: cd CharitAble && npm install
 
-      - name: Build
-        run: cd CharitAble && npm run build
-      # 👆 Build steps
+#       - name: Build
+#         run: cd CharitAble && npm run build
+#       # 👆 Build steps
 
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.PAGES_SECRET }}
-          publish_dir: ./CharitAble/build
+#       - name: Deploy to GitHub Pages
+#         uses: peaceiris/actions-gh-pages@v3
+#         with:
+#           github_token: ${{ secrets.PAGES_SECRET }}
+#           publish_dir: ./CharitAble/build
