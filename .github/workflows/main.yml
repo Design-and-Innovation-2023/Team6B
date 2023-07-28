@@ -25,6 +25,9 @@ jobs:
           # Use 'npm' instead of 'yarn'
           registry-url: 'https://registry.npmjs.org/'
 
+      - name: Clear npm cache
+        run: npm cache clean --force
+
       - name: Install dependencies
         run: npm install
 
