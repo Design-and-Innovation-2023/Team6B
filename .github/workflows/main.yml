@@ -49,7 +49,15 @@ jobs:
           # You can swap them out with your own user credentials.
           # user_name: singthaitan
           # user_email: singthaitan@gmail.com
-      # Deploy to GitHub Pages
+      - name: Configure Git
+        run: |
+          git config --global user.name "singthaitan"
+          git config --global user.email "singthaitan@gmail.com"
+
       - name: Deploy to GitHub Pages
         working-directory: ./CharitAble
-        run: npx docusaurus deploy -- --token ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git checkout -B gh-pages
+          git add build
+          git commit -m "Deploy Docusaurus site to GitHub Pages"
+          git push origin gh-pages
