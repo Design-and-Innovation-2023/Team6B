@@ -56,5 +56,5 @@ jobs:
         id: deployment
         uses: actions/deploy-pages@v2
         with:
-          github_token: ${{ secrets.PAGES_SECRET }}
+          token: ${{ secrets.PAGES_SECRET }}
           #publish_dir: ./CharitAble/build
