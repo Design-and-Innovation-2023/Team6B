@@ -11,19 +11,25 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: ./CharitAble
     steps:
       - name: Checkout
         uses: actions/checkout@v3
+        with:
+          path: ./CharitAble
       # 👇 Build steps
       - name: Set up Node.js
         uses: actions/setup-node@v3
         with:
           node-version: 16.x
-          cache: yarn
+          # Use 'npm' instead of 'yarn'
+          registry-url: 'https://registry.npmjs.org/'
       - name: Install dependencies
-        run: yarn install --frozen-lockfile --non-interactive
+        run: cd CharitAble && npm install
       - name: Build
-        run: yarn build
+        run: cd CharitAble && npm run build
       # 👆 Build steps
       - name: Setup Pages
         uses: actions/configure-pages@v3
