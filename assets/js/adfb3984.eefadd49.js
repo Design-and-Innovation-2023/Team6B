@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcharit_able=self.webpackChunkcharit_able||[]).push([[233],{1300:e=>{e.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"docs-dailies"}')}}]);
