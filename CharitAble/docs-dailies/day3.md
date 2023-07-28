@@ -1,4 +1,8 @@
-# Day 6
+---
+sidebar_position: 3
+---
+
+# Day 3
 ewdnfjksnjkfjsdf
 
 ## Test

@@ -71,6 +71,15 @@ const config = {
         sidebarPath: require.resolve('./sidebars.js'),
       }, 
     ],
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'docs-dailies',
+        path: 'docs-dailies',
+        routeBasePath: 'docs-dailies',
+        sidebarPath: require.resolve('./sidebars.js'),
+      }, 
+    ],
 ],
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
@@ -91,7 +100,7 @@ const config = {
             label: 'Design Process',
           },
           {
-            to: 'blog', 
+            to: '/docs-dailies/day1', 
             label: 'Daily Journal', 
             position: 'left'
           },
