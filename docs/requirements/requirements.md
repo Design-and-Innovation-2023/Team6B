@@ -5,12 +5,22 @@ sidebar_position: 2
 # Requirements
 On 19 July 2023, the team had a meeting with our clients from Barclays, Ross Kelly and Fraser Dempster, to gain a deeper understanding on the requirements and expectations they have for the project. From the meeting, the team was able to understand the project from the client's perspective.
 
-## Something
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Netus et malesuada fames ac turpis egestas maecenas. Non consectetur a erat nam. Ac tortor dignissim convallis aenean et. Proin sed libero enim sed faucibus turpis in eu mi. Auctor eu augue ut lectus arcu bibendum. Placerat in egestas erat imperdiet sed euismod nisi. Ultrices gravida dictum fusce ut placerat orci nulla. Erat imperdiet sed euismod nisi porta lorem mollis aliquam. Tincidunt tortor aliquam nulla facilisi cras fermentum. Pellentesque nec nam aliquam sem et tortor consequat id porta. Imperdiet sed euismod nisi porta. Vulputate eu scelerisque felis imperdiet proin fermentum leo. Pellentesque habitant morbi tristique senectus. Sapien eget mi proin sed. Risus viverra adipiscing at in tellus integer feugiat scelerisque varius.
+## Q&A
+Q: What specific problems or challenges are you hoping this app will solve for?
 
-Vel pharetra vel turpis nunc eget. Aliquam eleifend mi in nulla posuere sollicitudin aliquam. Libero id faucibus nisl tincidunt eget nullam. Neque vitae tempus quam pellentesque nec nam aliquam sem et. Pellentesque sit amet porttitor eget dolor morbi non arcu. Nulla facilisi nullam vehicula ipsum a arcu cursus vitae. Iaculis nunc sed augue lacus viverra vitae congue eu consequat. Dictum sit amet justo donec enim diam vulputate ut. Elementum integer enim neque volutpat ac tincidunt vitae. Tristique senectus et netus et malesuada. Amet tellus cras adipiscing enim. Suspendisse sed nisi lacus sed viverra tellus in. Dignissim diam quis enim lobortis.
+   Understanding the primary pain points and desired outcomes helps to alsign the application's features and functionlities with user needs
 
-## Another Thing
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Netus et malesuada fames ac turpis egestas maecenas. Non consectetur a erat nam. Ac tortor dignissim convallis aenean et. Proin sed libero enim sed faucibus turpis in eu mi. Auctor eu augue ut lectus arcu bibendum. Placerat in egestas erat imperdiet sed euismod nisi. Ultrices gravida dictum fusce ut placerat orci nulla. Erat imperdiet sed euismod nisi porta lorem mollis aliquam. Tincidunt tortor aliquam nulla facilisi cras fermentum. Pellentesque nec nam aliquam sem et tortor consequat id porta. Imperdiet sed euismod nisi porta. Vulputate eu scelerisque felis imperdiet proin fermentum leo. Pellentesque habitant morbi tristique senectus. Sapien eget mi proin sed. Risus viverra adipiscing at in tellus integer feugiat scelerisque varius.
+A: Maggie Centres.
 
-Vel pharetra vel turpis nunc eget. Aliquam eleifend mi in nulla posuere sollicitudin aliquam. Libero id faucibus nisl tincidunt eget nullam. Neque vitae tempus quam pellentesque nec nam aliquam sem et. Pellentesque sit amet porttitor eget dolor morbi non arcu. Nulla facilisi nullam vehicula ipsum a arcu cursus vitae. Iaculis nunc sed augue lacus viverra vitae congue eu consequat. Dictum sit amet justo donec enim diam vulputate ut. Elementum integer enim neque volutpat ac tincidunt vitae. Tristique senectus et netus et malesuada. Amet tellus cras adipiscing enim. Suspendisse sed nisi lacus sed viverra tellus in. Dignissim diam quis enim lobortis.
+
+Q: How do you envision using the application in your daily life or work?
+
+A: Integrating with user's data and help them understand their finances so that they can make an informed decisions on how much to donate, makes decision-making easier
+
+
+Q: What are the motivations to consider using this application?
+
+A: From company charities for employees to donate and open to the greater community to also donate their money for a greater cause
+
+
+Q: What 
