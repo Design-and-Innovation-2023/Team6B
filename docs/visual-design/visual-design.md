@@ -5,17 +5,24 @@ sidebar_position: 7
 # Visual Design
 Moving on to the actual design of the website; colour scheme, typography and imagery are explored to create a visually appealing and emotionally engagging platform. This will encourage users to participate on charitable giving as well as emphasising the simplicity of CharitAble and reliability of Barclays.
 
+![Colours and Typograhies](../img/ColorScheme.png)
+
 ## Colour Scheme
-The colour scheme of CharitAble are chosen to evoke feelings of warmth, compassion and trust while maintaining a modern and clean aesthetic. A combination of the following colours are used to achieve this:
-- **Colour (#123ABC):** This colour represents...
-- **Colour (#123ABC):** This colour represents...
-- **Colour (#123ABC):** This colour represents...
-- **Colour (#123ABC):** This colour represents...
+The colour scheme of CharitAble are chosen to create a user-friendly and emotionally engaging environment while maintaining a modern and clean aesthetic. A combination of the following colours are used to achieve this:
+
+- **Light Blue (#00AEEF):** This refreshing and serene light blue color represents a sense of tranquility and harmony. It evokes feelings of trust and reliability, fostering a sense of security and confidence within the application. As users browse through the platform, this color will instill a feeling of calmness and ease, encouraging them to engage with the charitable causes showcased.
+
+- **Dark Blue (#0074A6):** This deeper shade of blue is used for interactive elements such as buttons and clickable elements. It adds a touch of vibrancy and excitement, guiding users towards taking action and making donations. The buttons' blue helps create a clear visual contrast, drawing attention to the important calls-to-action throughout the app.
+
+- **Medium Grey (#585858):** A subtle, medium grey tone is chosen for the description texts throughout the app. This color strikes a balance between being readable and unobtrusive, allowing users to absorb information comfortably. The choice of this grey complements the vibrant blue hues, ensuring that essential information is presented clearly and concisely.
+
+- **Light Grey (#E8E8E8):** The light grey color used for the charity icons exudes a sense of simplicity and sophistication. This neutral shade serves as a clean backdrop for the charity logos, allowing them to stand out prominently and maintain their individual identities. The light grey also contributes to an overall clean and organized appearance, enhancing the user experience.
 
 ## Typography
 The typography chosen are legible, modern and versatile, catering to the needs of the website. Two complementary fonts are used:
-- **Heading Font - X Font:** A clean, geometric bla bla..
-- **Body Font - Y Font:** A bla bla offers excellent readability in...
+- **Heading Font - Lexend:** Lexend is a contemporary and elegant font, perfect for CharitAble. With its unique letterforms and clear legibility, Lexend adds a touch of modernity and sophistication to the design. The slightly condensed letter spacing of Lexend ensures that headings are eye-catching and impactful, grabbing the users' attention as they explore the platform.
+
+- **Body Font - Inter:** Inter is a highly readable and versatile font, making it an excellent choice for the main body text of CharitAble. Its balanced and neutral appearance allows for easy comprehension, ensuring that users can comfortably engage with the content and information presented on the app. Inter's clear letterforms and consistent spacing contribute to a smooth reading experience, making it suitable for the web interface.
 
 ## Imagery
 The imagery used focuses on showcasing positive impact through charitable actions. We utilise photographs that evoke emotions of happiness, hope and unity. The image used are:
