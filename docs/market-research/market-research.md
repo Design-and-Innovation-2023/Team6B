@@ -3,7 +3,7 @@ sidebar_position: 3
 ---
 
 # Market Research
-This project is aimed at aiding donors in their decision making process by simplifying their donation process flow with suggestions such as donation amount and charities to donate to based on their financial capabilities and interests indicated. In this section, the team researched on existing donation platforms to determine the viability of the new feature and also to identify the needs of the target audiences.
+After understanding the project requirements in detail, the team proceeded to conduct market research to gain insights into existing platforms and the pain points of the target audiences. This research was done before designing a viable solution that also addresses the pain points encountered during the process.
 
 ## Charitable Donations Platforms
 [<h2>1. TotalGiving</h2>](https://www.totalgiving.co.uk/)
@@ -33,10 +33,8 @@ Barclays actively supports communities in need to deliver vital relief efforts t
 
 [<h3>1. Action Against Hunger</h3>](https://www.actionagainsthunger.org.uk/)
 
-Action Against Hunger is a charititable organisation that managed to support more than 25 million people around the world, transforming lives in some of the most vulnerable communities in 51 countries around the world. Action Against Hunger focuses on preventing life-threatening hunger by assisting communities in providing clean water, sanitation, self-sustaining food sources etc.
-
-<h3>2. Bread for the World</h3>
+Action Against Hunger is a charitable organisation that managed to support more than 25 million people around the world, transforming lives in some of the most vulnerable communities in 51 countries around the world. Action Against Hunger focuses on preventing life-threatening hunger by assisting communities in providing clean water, sanitation, self-sustaining food sources etc.
 
 
-[<h3>3. World Central Kitchen</h3>](https://wck.org/)
+[<h3>2. World Central Kitchen</h3>](https://wck.org/)
 World Central Kitchen is devoted to providing meals in response to humanitarian, climate, and community crises. World Central Kitchen is guided by their belief that food is a universal human right and has served hundreds of millions of nourishing meals around the world. 
