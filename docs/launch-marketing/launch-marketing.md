@@ -22,8 +22,8 @@ The team believes that giving back should be an integral part of everyone's life
 ## Marketing Efforts
 Marketing efforts are focused on building awareness and driving user adoption to quickly foster a community of givers. A multi-faceted marketing campaign will be needed to effectively expand the platform's reach.
 
-1. **Socail Media Campaigns:** Harness the power of social media by running captivating campaigns across various platforms that shares impactful stories of people who have made a difference through CharitAble. These hearwarming stories will inspire others to join the movement and amplify impact of their contributions.
+1. **Social Media Campaigns:** Harness the power of social media by running captivating campaigns across various platforms that shares impactful stories of people who have made a difference through CharitAble. These heartwarming stories will inspire others to join the movement and amplify impact of their contributions.
 
-2. **Influencer Collaborations:** Collaborate with social media influencers, celebrities and prominent figures who share the passion for philantrphy and positive change. Their support and endorsement will help to reach a wider audience and foster a sense of community around giving back.
+2. **Influencer Collaborations:** Collaborate with social media influencers, celebrities and prominent figures who share the passion for philantrophy and positive change. Their support and endorsement will help to reach a wider audience and foster a sense of community around giving back.
 
 3. **Public Relations(PR) and Media Coverage:** Engage in PR activities to secure media coverage and press releases, allowing the vision and mission to be shared. Positive media exposure will further establish CharitAble as a reputable and impactful donation platform.

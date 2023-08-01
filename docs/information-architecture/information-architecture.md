@@ -8,10 +8,10 @@ Information Architecture serves as the backbone of the web application. After un
 ## Organisation of Charities
 
 ### Browse Charities
-This section allows the users to browse various charities involved. They have the option to donate to the charities directly and be brought to a confirmation page to re-allocate their donation weightage for the new cahrity added. This does not affect the donation amount they have allocated.
+This section allows the users to browse various charities involved. They have the option to donate to the charities directly and be brought to a confirmation page to re-allocate their donation weightage for the new charity added. This does not affect the donation amount they have allocated.
 
 ### Filtering
-Users have the option to filter by X and X (TODO)
+Users have the option to filter by Country, Community and Popularity.
 
 ### Charity Profiles
 Charities will have a profile where they can post their updates about the money they have used and the impact it has created. Users will be able to view the updates to be informed about how their donation has impacted the causes they care about.
