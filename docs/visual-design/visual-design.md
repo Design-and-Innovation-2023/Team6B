@@ -3,13 +3,29 @@ sidebar_position: 7
 ---
 
 # Visual Design
-On 19 July 2023, the team had a meeting with our clients from Barclays, Ross Kelly and Fraser Dempster, to gain a deeper understanding on the requirements and expectations they have for the project. From the meeting, the team was able to understand the project from the client's perspective.
+Moving on to the actual design of the website; colour scheme, typography and imagery are explored to create a visually appealing and emotionally engagging platform. This will encourage users to participate on charitable giving as well as emphasising the simplicity of CharitAble and reliability of Barclays.
 
 ## Colour Scheme
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Netus et malesuada fames ac turpis egestas maecenas. Non consectetur a erat nam. Ac tortor dignissim convallis aenean et. Proin sed libero enim sed faucibus turpis in eu mi. Auctor eu augue ut lectus arcu bibendum. Placerat in egestas erat imperdiet sed euismod nisi. Ultrices gravida dictum fusce ut placerat orci nulla. Erat imperdiet sed euismod nisi porta lorem mollis aliquam. Tincidunt tortor aliquam nulla facilisi cras fermentum. Pellentesque nec nam aliquam sem et tortor consequat id porta. Imperdiet sed euismod nisi porta. Vulputate eu scelerisque felis imperdiet proin fermentum leo. Pellentesque habitant morbi tristique senectus. Sapien eget mi proin sed. Risus viverra adipiscing at in tellus integer feugiat scelerisque varius.
+The colour scheme of CharitAble are chosen to evoke feelings of warmth, compassion and trust while maintaining a modern and clean aesthetic. A combination of the following colours are used to achieve this:
+- **Colour (#123ABC):** This colour represents...
+- **Colour (#123ABC):** This colour represents...
+- **Colour (#123ABC):** This colour represents...
+- **Colour (#123ABC):** This colour represents...
 
 ## Typography
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Netus et malesuada fames ac turpis egestas maecenas. Non consectetur a erat nam. Ac tortor dignissim convallis aenean et. Proin sed libero enim sed faucibus turpis in eu mi. Auctor eu augue ut lectus arcu bibendum. Placerat in egestas erat imperdiet sed euismod nisi. Ultrices gravida dictum fusce ut placerat orci nulla. Erat imperdiet sed euismod nisi porta lorem mollis aliquam. Tincidunt tortor aliquam nulla facilisi cras fermentum. Pellentesque nec nam aliquam sem et tortor consequat id porta. Imperdiet sed euismod nisi porta. Vulputate eu scelerisque felis imperdiet proin fermentum leo. Pellentesque habitant morbi tristique senectus. Sapien eget mi proin sed. Risus viverra adipiscing at in tellus integer feugiat scelerisque varius.
+The typography chosen are legible, modern and versatile, catering to the needs of the website. Two complementary fonts are used:
+- **Heading Font - X Font:** A clean, geometric bla bla..
+- **Body Font - Y Font:** A bla bla offers excellent readability in...
 
 ## Imagery
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Netus et malesuada fames ac turpis egestas maecenas. Non consectetur a erat nam. Ac tortor dignissim convallis aenean et. Proin sed libero enim sed faucibus turpis in eu mi. Auctor eu augue ut lectus arcu bibendum. Placerat in egestas erat imperdiet sed euismod nisi. Ultrices gravida dictum fusce ut placerat orci nulla. Erat imperdiet sed euismod nisi porta lorem mollis aliquam. Tincidunt tortor aliquam nulla facilisi cras fermentum. Pellentesque nec nam aliquam sem et tortor consequat id porta. Imperdiet sed euismod nisi porta. Vulputate eu scelerisque felis imperdiet proin fermentum leo. Pellentesque habitant morbi tristique senectus. Sapien eget mi proin sed. Risus viverra adipiscing at in tellus integer feugiat scelerisque varius.
+The imagery used focuses on showcasing positive impact through charitable actions. We utilise photographs that evoke emotions of happiness, hope and unity. The image used are:
+- **Diverse and Inclusive Photos:** Showing people from various backgrounds, cultures and ages engaging in acts of kindness, charity events and volunteering events.
+
+- **Nature and Environment:** Illustrates the impact of environmental charities, such as images of lush landscapes, clean oceans or wildlife conservation efforts.
+
+- **Supportive Community:** Depict images of people coming together, forming a supportive community to empahsise the power of collective giving.
+
+- **Smiling Faces:** Highlight the joy of giving and receiving by capturing genuine smiles and expressions of gratitude.
+
+## View Our Final Design on Figma!
+Our final design can be viewed on figma here (<- this will be a link TODO). The figma link can also be found on the home page of this website if you wish to continue reading on and visit later.

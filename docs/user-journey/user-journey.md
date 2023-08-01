@@ -3,12 +3,37 @@ sidebar_position: 6
 ---
 
 # User Journey Mapping
-On 19 July 2023, the team had a meeting with our clients from Barclays, Ross Kelly and Fraser Dempster, to gain a deeper understanding on the requirements and expectations they have for the project. From the meeting, the team was able to understand the project from the client's perspective.
 
-(THE MAP)
+With the information architecture solidified, let's now discover the journey a user will embark on. This will help with gaining insight into the user experience by understanding the various touchpoints and the emotions to be invoked which will enhance user satisfaction and engagement.
 
-## Pain Points
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Netus et malesuada fames ac turpis egestas maecenas. Non consectetur a erat nam. Ac tortor dignissim convallis aenean et. Proin sed libero enim sed faucibus turpis in eu mi. Auctor eu augue ut lectus arcu bibendum. Placerat in egestas erat imperdiet sed euismod nisi. Ultrices gravida dictum fusce ut placerat orci nulla. Erat imperdiet sed euismod nisi porta lorem mollis aliquam. Tincidunt tortor aliquam nulla facilisi cras fermentum. Pellentesque nec nam aliquam sem et tortor consequat id porta. Imperdiet sed euismod nisi porta. Vulputate eu scelerisque felis imperdiet proin fermentum leo. Pellentesque habitant morbi tristique senectus. Sapien eget mi proin sed. Risus viverra adipiscing at in tellus integer feugiat scelerisque varius.
+### 1. Entering CharitAble Website
+- **Touchpoint:** Landing Page
+- **Emotion:** Curiosity and Interest
 
-## Touchpoints & Emotions
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Netus et malesuada fames ac turpis egestas maecenas. Non consectetur a erat nam. Ac tortor dignissim convallis aenean et. Proin sed libero enim sed faucibus turpis in eu mi. Auctor eu augue ut lectus arcu bibendum. Placerat in egestas erat imperdiet sed euismod nisi. Ultrices gravida dictum fusce ut placerat orci nulla. Erat imperdiet sed euismod nisi porta lorem mollis aliquam. Tincidunt tortor aliquam nulla facilisi cras fermentum. Pellentesque nec nam aliquam sem et tortor consequat id porta. Imperdiet sed euismod nisi porta. Vulputate eu scelerisque felis imperdiet proin fermentum leo. Pellentesque habitant morbi tristique senectus. Sapien eget mi proin sed. Risus viverra adipiscing at in tellus integer feugiat scelerisque varius.
+### 2. Learning About the Platform and Purpose
+- **Touchpoint:** Landing Page Contents
+- **Emotion:** Understanding and Engagement
+
+### 3. Logging In with Barclays Account
+- **Touchpoint:** Login Page
+- **Emotion:** Trust Seeking
+
+### 4. Donation Amount Suggestion
+- **Touchpoint:** Account Set Up
+- **Emotion:** Delighted and Empowered
+
+### 5. Interests and Charities Selection
+- **Touchpoint:** Account Set Up, Charity Profiles and their Impact
+- **Emotion:** Empathy and Compassion
+
+### 6. Donation Amount Allocation to Charities
+- **Touchpoint:** Account Set Up
+- **Emotion:** Engaged and Control
+
+### 7. Receipt Confirmation
+- **Touchpoint:** Account Set Up
+- **Emotion:** Satisfied and Content
+
+### 8. Donation History
+- **Touchpoint:** Donation History Page, Charities Update
+- **Emotion:** Connected and Proud

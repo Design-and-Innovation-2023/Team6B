@@ -3,7 +3,7 @@ sidebar_position: 4
 ---
 
 # Information Architecture
-Information Architecture serves as the backbone of the web application. We seek to structure and organise information in a meaningful way where users are empowered to navigate, access and comprehend the content effortlessly. This will result in a positive user experience, achieving the ultimate goal of making it simple to donate.
+Information Architecture serves as the backbone of the web application. After understanding the market, we seek to structure and organise information in a meaningful way where users are empowered to navigate, access and comprehend the content effortlessly. This will result in a positive user experience, achieving the ultimate goal of making it simple to donate.
 
 ## Organisation of Charities
 
