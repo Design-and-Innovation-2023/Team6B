@@ -49,6 +49,8 @@ From the meeting, the team was able to gain a clearer view of the project from t
 
 With the requirements gathered, the team can move on to perform market research to gather insights into the industry, target audience and current implementations in the market.  
 
-## Meeting Minutes (ASK PROF IF SHOULD ADD OR IF IS TOO MUCH CONTENT)
+## Meeting Minutes
 
-The team has prepared the meeting minutes documenting the discussions held during the meeting with the client.
+The team has prepared the meeting minutes documenting the discussions held during the meeting with the client. The meeting minutes can be displayed by clicking the link stated below. 
+
+https://github.com/Design-and-Innovation-2023/Team6B/blob/main/files/Meeting%20Minutes.pdf
