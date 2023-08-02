@@ -1,5 +1,5 @@
 ---
-sidebar_position: 4
+sidebar_position: 5
 ---
 
 import Prototype3_1 from '../img/Prototype3_1.png';
@@ -8,8 +8,8 @@ import Prototype3_3 from '../img/Prototype3_3.png';
 import Prototype3_4 from '../img/Prototype3_4.png';
 
 
-# Prototype 3
-## High-Fidelity Prototype
+# Prototype 4
+## High-Fidelity Prototype (Improved Version)
 Moving forward, the team is now ready to create the high-fidelity (hi-fi)prototype, where the idea of the lo-fi prototype will be translated into a more detailed representation, similar to the application. With this prototype, the team will be able to further improve the user experience and functionality of the application. This prototype focuses on the donation process that users encounter during their initial login as part of setting up their account which was mentioned previously in the storyboard, first-time user. By creating the hi-fi prototype, the team aims to bring a user-friendly and simple donation process to the user when using CharitAble.
 ### Prototype Design
 
@@ -34,7 +34,6 @@ At the final stage of the donation process,a confirmation page is displayed whic
 
 In conclusion, the team has made significant progress in the design process by developing a high-fidelity (hi-fi) prototype that refines and enhances the user experience. This new prototype, based on the lo-fi concept, brings a user-friendly and straightforward donation process to CharitAble's users, especially first-time users during their initial account setup. With meticulous attention to detail, the hi-fi prototype will offer a more immersive and polished representation of the application, enabling the team to identify areas for further improvement. The successful implementation of user interest selection and allocation to charities showcases the team's commitment to delivering a personalized and meaningful donation experience
 
-## Try Our Prototype!
-To try prototype 3, simply click on the link provided below. While testing the prototype, please ensure to select the "Fit to screen" option to adjust the layout according to your screen size.
 
-https://tinyurl.com/Team6BPrototype3Figma
+## Try Our Prototype!
+

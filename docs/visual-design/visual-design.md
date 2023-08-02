@@ -27,7 +27,7 @@ The image above showcases the various colours used.
 - **Body Font - Inter:** Inter is a highly readable and versatile font, making it an excellent choice for the main body text of CharitAble. Its balanced and neutral appearance allows for easy comprehension, ensuring that users can comfortably engage with the content and information presented on the app. Inter's clear letterforms and consistent spacing contribute to a smooth reading experience, making it suitable for the web interface.
 
 ![Typography Example](../img/TypographySample.png)
-The image above shows the clear sepration of heading and description, guiding the user.
+The image above shows the clear separation of heading and description, guiding the user.
 
 ## Imagery
 The imagery used focuses on showcasing positive impact through charitable actions. We utilise photographs that evoke emotions of happiness, hope and unity. The image used are:
