@@ -9,6 +9,7 @@ const config = {
   title: 'CharitAble',
   tagline: 'Giving Made Simple',
   favicon: 'img/favicon.ico',
+  
 
   // Set the production url of your site here
   url: 'https://Design-and-Innovation-2023.github.io',
