@@ -7,8 +7,7 @@ import HomepageFeatures from '@site/src/components/HomepageFeatures';
 
 import styles from './index.module.css';
 // Import your logo image
-import logoImage from '../../static/img/charitable.png'; // Update the path accordingly
-import barcImage from '../../static/img/barclays-logo-edit.png'; // Update the path accordingly
+import logoImage from '../../static/img/Logo_Homepage.png';// Update the path accordingly
 
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
@@ -16,8 +15,7 @@ function HomepageHeader() {
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
         {/*<h1 className="hero__title">{siteConfig.title}</h1>*/}
-        <img src={logoImage} alt="Logo" className={styles.logo} />
-        <img src={barcImage} alt="Logo" className={styles.logo} width="30%" height="auto"/>
+        <img src={logoImage} alt="Logo" className={styles.logo} width="70%" height="auto"/>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
         <div className={styles.buttons}>
           <Link
