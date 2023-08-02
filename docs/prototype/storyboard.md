@@ -3,6 +3,7 @@ sidebar_position: 1
 ---
 
 # Storyboard
+
 ## Tagline
 Before creating the storyboard, the team took a thoughtful approach by crafting a compelling tagline for CharitAble. Recognising the importance of a clear and concise message, brainstorming sessions were carried out to conceive a tagline that encapsulated the essence of the team's vision. This initial step was crucial in establishing the project's direction and ensuring that the storyboard seamlessly aligned with the core message the team aimed to convey. After careful deliberation, the team decided on "Giving Made Simple". The idea was built with the meaning of each word as shown below.
 
