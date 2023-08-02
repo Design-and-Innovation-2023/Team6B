@@ -17,11 +17,17 @@ Moving on to the actual design of the website; colour scheme, typography and ima
 
 - **Light Grey (#E8E8E8):** The light grey color used for the charity icons exudes a sense of simplicity and sophistication. This neutral shade serves as a clean backdrop for the charity logos, allowing them to stand out prominently and maintain their individual identities. The light grey also contributes to an overall clean and organized appearance, enhancing the user experience.
 
+![Colour Example](../img/ColorSample.png)
+The image above showcases the various colours used.
+
 ## Typography
 
 - **Heading Font - Lexend:** Lexend is a contemporary and elegant font, perfect for CharitAble. With its unique letterforms and clear legibility, Lexend adds a touch of modernity and sophistication to the design. The slightly condensed letter spacing of Lexend ensures that headings are eye-catching and impactful, grabbing the users' attention as they explore the platform.
 
 - **Body Font - Inter:** Inter is a highly readable and versatile font, making it an excellent choice for the main body text of CharitAble. Its balanced and neutral appearance allows for easy comprehension, ensuring that users can comfortably engage with the content and information presented on the app. Inter's clear letterforms and consistent spacing contribute to a smooth reading experience, making it suitable for the web interface.
+
+![Typography Example](../img/TypographySample.png)
+The image above shows the clear sepration of heading and description, guiding the user.
 
 ## Imagery
 The imagery used focuses on showcasing positive impact through charitable actions. We utilise photographs that evoke emotions of happiness, hope and unity. The image used are:
@@ -32,6 +38,9 @@ The imagery used focuses on showcasing positive impact through charitable action
 - **Supportive Community:** Depict images of people coming together, forming a supportive community to empahsise the power of collective giving.
 
 - **Smiling Faces:** Highlight the joy of giving and receiving by capturing genuine smiles and expressions of gratitude.
+
+![Imagery Example](../img/ImagerySample.jpg)
+The image above showcases the attributes of a photo used.
 
 ## View Our Final Design on Figma!
 Our final design can be viewed on figma here (<- this will be a link TODO). The figma link can also be found on the home page of this website if you wish to continue reading on and visit later.
