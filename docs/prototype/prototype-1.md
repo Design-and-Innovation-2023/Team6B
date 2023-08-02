@@ -41,15 +41,20 @@ The survey revealed that "Feeding Britain" and "Children in Need" were the top t
 ### Donation Allocation
 <img src={Prototype1_Response_3} style={{width: 500, paddingBottom:20}}/>
 
+Based on the gathered feedback, it was found that 80% of users prefer the application to automatically distribute their donation amounts among the selected charities. The team will consider this preference during the application's development. Nevertheless, since there is still a segment of users who prefer manually allocating their donation amounts, the team plans to provide an option for users to edit the allocation even after the application's automatic split.  
+
 ### Rating of Donation Process Idea
 <img src={Prototype1_Response_4} style={{width: 500, paddingBottom:20}}/>
+
+Based on the collected feedback, over 90% of users expressed satisfaction with the application. The team is delighted with this positive response and is now confident to proceed with designing the prototype for this idea.
+
 
 ### Feedbacks for Improvement
 <img src={Prototype1_Response_5} style={{width: 500, paddingBottom:20}}/>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Netus et malesuada fames ac turpis egestas maecenas. Non consectetur a erat nam. Ac tortor dignissim convallis aenean et. Proin sed libero enim sed faucibus turpis in eu mi. Auctor eu augue ut lectus arcu bibendum. Placerat in egestas erat imperdiet sed euismod nisi. Ultrices gravida dictum fusce ut placerat orci nulla. Erat imperdiet sed euismod nisi porta lorem mollis aliquam. Tincidunt tortor aliquam nulla facilisi cras fermentum. Pellentesque nec nam aliquam sem et tortor consequat id porta. Imperdiet sed euismod nisi porta. Vulputate eu scelerisque felis imperdiet proin fermentum leo. Pellentesque habitant morbi tristique senectus. Sapien eget mi proin sed. Risus viverra adipiscing at in tellus integer feugiat scelerisque varius.
+In the received feedback, the majority of users did not provide any specific improvement suggestions. However, the team identified one valuable input where users expressed a preference for charities to be displayed based on their interests rather than directly selecting them. To address this, an additional step will be introduced, where users' interests will be derived from their spending categories, with the option for them to amend these interests. Subsequently, based on these interests, the application will suggest charities and users can select the charities they wish to support. The team is keen on implementing this approach in the future prototype and application as it allows users to express their interests, enabling the application to recommend charities accordingly.
 
-Vel pharetra vel turpis nunc eget. Aliquam eleifend mi in nulla posuere sollicitudin aliquam. Libero id faucibus nisl tincidunt eget nullam. Neque vitae tempus quam pellentesque nec nam aliquam sem et. Pellentesque sit amet porttitor eget dolor morbi non arcu. Nulla facilisi nullam vehicula ipsum a arcu cursus vitae. Iaculis nunc sed augue lacus viverra vitae congue eu consequat. Dictum sit amet justo donec enim diam vulputate ut. Elementum integer enim neque volutpat ac tincidunt vitae. Tristique senectus et netus et malesuada. Amet tellus cras adipiscing enim. Suspendisse sed nisi lacus sed viverra tellus in. Dignissim diam quis enim lobortis.
+After conducting tests on prototype 1 and collecting user feedback, the team was pleased with the results and is eager to proceed with the further development and design of the design process idea.
 
 ## Try our Prototype!
 To try prototype 1, simply click on the link provided directly below.
