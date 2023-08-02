@@ -21,3 +21,14 @@
   align-items: center;
   justify-content: center;
 }
+
+/* Add space between logo and buttons */
+.logo {
+  margin-bottom: 20px; /* Adjust the margin value as needed */
+}
+
+/* Add margin to the second button */
+.buttons a:nth-child(2) {
+  margin-left: 10px; /* Adjust the margin value as needed */
+}
+

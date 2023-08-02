@@ -14,3 +14,48 @@
   max-width: 100%;
   height: auto;
 }
+
+.centerRow {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.videoStyling {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+}
+
+.lexend-font {
+  font-family: 'Lexend', sans-serif;
+}
+
+.displayText {
+  font-size: 24px;
+}
+
+.addMarginTop {
+  margin-top: 0;
+  
+  @media (max-width: 1140px) {
+    margin-top: 2rem;
+  }
+}
+
+
+.addMarginLeft {
+  margin-left: 0;
+
+  @media (min-width: 1141px) {
+    margin-left: 4rem;
+  }
+}
+
+@media (max-width: 1140px) {
+  .centerRow {
+    flex-direction: column;
+  }
+}
