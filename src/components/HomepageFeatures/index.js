@@ -2,7 +2,7 @@ import React from 'react';
 import clsx from 'clsx';
 import styles from './styles.module.css';
 
-import videoFile from '../../../static/files/Charitable_Intro.mp4';
+import videoFile from '../../../static/files/CharitAble_Intro.mp4';
 import decisionMakingIcon from "../../../static/img/decision-making.png"
 
 const FeatureList = [
