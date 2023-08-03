@@ -86,7 +86,7 @@ export default function HomepageFeatures() {
     <section className={styles.features}>
       <div className="container">
         <div className={clsx('row', styles.centerRow)} style={{ marginTop: '20px', marginBottom: '20px' }}>
-          <div className={clsx('col-md-6 text--center')}>
+          <div className={clsx('col-md-6 text--center')} style={{ marginRight: '30px' }}>
             <p className={clsx(styles['lexend-font'], styles.displayText)}>
               Ever face a <b style={{ fontSize: "30px", color: "#DD7373" }}>dilemma in decision-making</b><br /> for your donations?<br />Who to donate to? How much to donate?
             </p>
