@@ -17,7 +17,7 @@ Bottom Row (Left to Right): Kurt, Atiqah, Jia Qi, Malvin, Top Row (Left to Right
 ## Our Contacts
 
 ### Kurt
-- **LinkedIn:** https://www.linkedin.com/in/
+- **LinkedIn:** https://www.linkedin.com/in/kurt-tan-61bb0011b
 - **GitHub:** https://github.com/junweikurt
 
 ### Atiqah
@@ -37,5 +37,5 @@ Bottom Row (Left to Right): Kurt, Atiqah, Jia Qi, Malvin, Top Row (Left to Right
 - **GitHub:** https://github.com/singthaitan
 
 ### Walter
-- **LinkedIn:** https://www.linkedin.com/in/
+- **LinkedIn:** https://www.linkedin.com/in/walterlayzz
 - **GitHub:** https://github.com/Walterlayzz
