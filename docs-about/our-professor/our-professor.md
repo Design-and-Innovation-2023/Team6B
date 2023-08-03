@@ -3,14 +3,19 @@ sidebar_position: 2
 ---
 
 # Our Professor
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Netus et malesuada fames ac turpis egestas maecenas. Non consectetur a erat nam. Ac tortor dignissim convallis aenean et. Proin sed libero enim sed faucibus turpis in eu mi. 
 
-## Something
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Netus et malesuada fames ac turpis egestas maecenas. Non consectetur a erat nam. Ac tortor dignissim convallis aenean et. Proin sed libero enim sed faucibus turpis in eu mi. Auctor eu augue ut lectus arcu bibendum. Placerat in egestas erat imperdiet sed euismod nisi. Ultrices gravida dictum fusce ut placerat orci nulla. Erat imperdiet sed euismod nisi porta lorem mollis aliquam. Tincidunt tortor aliquam nulla facilisi cras fermentum. Pellentesque nec nam aliquam sem et tortor consequat id porta. Imperdiet sed euismod nisi porta. Vulputate eu scelerisque felis imperdiet proin fermentum leo. Pellentesque habitant morbi tristique senectus. Sapien eget mi proin sed. Risus viverra adipiscing at in tellus integer feugiat scelerisque varius.
+## About Jonathan Grizou
+Jonathan Grizou is an Assistant Professor of Computer Science at the University of Glasgow.
 
-Vel pharetra vel turpis nunc eget. Aliquam eleifend mi in nulla posuere sollicitudin aliquam. Libero id faucibus nisl tincidunt eget nullam. Neque vitae tempus quam pellentesque nec nam aliquam sem et. Pellentesque sit amet porttitor eget dolor morbi non arcu. Nulla facilisi nullam vehicula ipsum a arcu cursus vitae. Iaculis nunc sed augue lacus viverra vitae congue eu consequat. Dictum sit amet justo donec enim diam vulputate ut. Elementum integer enim neque volutpat ac tincidunt vitae. Tristique senectus et netus et malesuada. Amet tellus cras adipiscing enim. Suspendisse sed nisi lacus sed viverra tellus in. Dignissim diam quis enim lobortis.
+His research focuses on self-calibrating interfaces which allow you to immediately control a device without the device initially knowing how to interpret your actions.
 
-## Another Thing
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Netus et malesuada fames ac turpis egestas maecenas. Non consectetur a erat nam. Ac tortor dignissim convallis aenean et. Proin sed libero enim sed faucibus turpis in eu mi. Auctor eu augue ut lectus arcu bibendum. Placerat in egestas erat imperdiet sed euismod nisi. Ultrices gravida dictum fusce ut placerat orci nulla. Erat imperdiet sed euismod nisi porta lorem mollis aliquam. Tincidunt tortor aliquam nulla facilisi cras fermentum. Pellentesque nec nam aliquam sem et tortor consequat id porta. Imperdiet sed euismod nisi porta. Vulputate eu scelerisque felis imperdiet proin fermentum leo. Pellentesque habitant morbi tristique senectus. Sapien eget mi proin sed. Risus viverra adipiscing at in tellus integer feugiat scelerisque varius.
+He teach interdisciplinary design thinking courses and develop smartphone based technologies for STEAM education.
 
-Vel pharetra vel turpis nunc eget. Aliquam eleifend mi in nulla posuere sollicitudin aliquam. Libero id faucibus nisl tincidunt eget nullam. Neque vitae tempus quam pellentesque nec nam aliquam sem et. Pellentesque sit amet porttitor eget dolor morbi non arcu. Nulla facilisi nullam vehicula ipsum a arcu cursus vitae. Iaculis nunc sed augue lacus viverra vitae congue eu consequat. Dictum sit amet justo donec enim diam vulputate ut. Elementum integer enim neque volutpat ac tincidunt vitae. Tristique senectus et netus et malesuada. Amet tellus cras adipiscing enim. Suspendisse sed nisi lacus sed viverra tellus in. Dignissim diam quis enim lobortis.
+Talk to him about the history of technology, bootstrapping, and start-up.
+
+## Contact Jonathan
+This is a standing invitation to contact me. I want to talk to you, you won’t annoy me. I had the luck to acquire a few skills and I enjoy sharing what I learned as well as learning from curious minded people. Like many, I was once too shy to contact people, thinking I would annoy them. Fear not, I like getting emails, hearing new ideas and meeting new people.
+
+You can reach me by email at [jonathan.grizou@glasgow.ac.uk](jonathan.grizou@glasgow.ac.uk). My social media handle is usually jgrizou.
+
+Learn more about me at [jgrizou.com](https://jgrizou.com/).

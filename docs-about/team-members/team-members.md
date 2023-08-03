@@ -3,15 +3,39 @@ sidebar_position: 1
 ---
 
 # Team Members
-![Alt text](../img/TeamPic.jpg)
 
+## Introduction
+The team behind CharitAble: Giving Made Simple believes in the power of giving and are committed to creating a seamless donation experience for their users. This platform aims to connect charitable organisations with generous hearts, making it easier than ever to make a positive impact on the causes users are passionate about.
 
-## Something
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Netus et malesuada fames ac turpis egestas maecenas. Non consectetur a erat nam. Ac tortor dignissim convallis aenean et. Proin sed libero enim sed faucibus turpis in eu mi. Auctor eu augue ut lectus arcu bibendum. Placerat in egestas erat imperdiet sed euismod nisi. Ultrices gravida dictum fusce ut placerat orci nulla. Erat imperdiet sed euismod nisi porta lorem mollis aliquam. Tincidunt tortor aliquam nulla facilisi cras fermentum. Pellentesque nec nam aliquam sem et tortor consequat id porta. Imperdiet sed euismod nisi porta. Vulputate eu scelerisque felis imperdiet proin fermentum leo. Pellentesque habitant morbi tristique senectus. Sapien eget mi proin sed. Risus viverra adipiscing at in tellus integer feugiat scelerisque varius.
+## Our Mission
+At CharitAble, our mission is to change the way people donate to charitable causes. We are passionate about fostering a culture of philantrphy and want to empower individuals to support the charities they are most passionate about. Our vision is to create a world where giving is accessible, effortless, and transparent, ultimately making a lasting difference in the lives of those in need.
 
-Vel pharetra vel turPellentesquepis nunc eget. Aliquam eleifend mi in nulla posuere sollicitudin aliquam. Libero id faucibus nisl tincidunt eget nullam. Neque vitae tempus quam pellentesque nec nam aliquam sem et.  sit amet porttitor eget dolor morbi non arcu. Nulla facilisi nullam vehicula ipsum a arcu cursus vitae. Iaculis nunc sed augue lacus viverra vitae congue eu consequat. Dictum sit amet justo donec enim diam vulputate ut. Elementum integer enim neque volutpat ac tincidunt vitae. Tristique senectus et netus et malesuada. Amet tellus cras adipiscing enim. Suspendisse sed nisi lacus sed viverra tellus in. Dignissim diam quis enim lobortis.
+## Meet the Team
+![Team Photograph](../img/TeamPic.jpg)
+Bottom Row (Left to Right): Kurt, Atiqah, Jia Qi, Malvin, Top Row (Left to Right): Sing Thai, Walter
 
-## Another Thing
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Netus et malesuada fames ac turpis egestas maecenas. Non consectetur a erat nam. Ac tortor dignissim convallis aenean et. Proin sed libero enim sed faucibus turpis in eu mi. Auctor eu augue ut lectus arcu bibendum. Placerat in egestas erat imperdiet sed euismod nisi. Ultrices gravida dictum fusce ut placerat orci nulla. Erat imperdiet sed euismod nisi porta lorem mollis aliquam. Tincidunt tortor aliquam nulla facilisi cras fermentum. Pellentesque nec nam aliquam sem et tortor consequat id porta. Imperdiet sed euismod nisi porta. Vulputate eu scelerisque felis imperdiet proin fermentum leo. Pellentesque habitant morbi tristique senectus. Sapien eget mi proin sed. Risus viverra adipiscing at in tellus integer feugiat scelerisque varius.
+## Our Contacts
 
-Vel pharetra vel turpis nunc eget. Aliquam eleifend mi in nulla posuere sollicitudin aliquam. Libero id faucibus nisl tincidunt eget nullam. Neque vitae tempus quam pellentesque nec nam aliquam sem et. Pellentesque sit amet porttitor eget dolor morbi non arcu. Nulla facilisi nullam vehicula ipsum a arcu cursus vitae. Iaculis nunc sed augue lacus viverra vitae congue eu consequat. Dictum sit amet justo donec enim diam vulputate ut. Elementum integer enim neque volutpat ac tincidunt vitae. Tristique senectus et netus et malesuada. Amet tellus cras adipiscing enim. Suspendisse sed nisi lacus sed viverra tellus in. Dignissim diam quis enim lobortis.
+### Kurt
+- **LinkedIn:** https://www.linkedin.com/in/
+- **GitHub:** https://github.com/junweikurt
+
+### Atiqah
+- **LinkedIn:** https://www.linkedin.com/in/atiqah-norshahid/
+- **GitHub:** https://github.com/80qah
+
+### Jia Qi
+- **LinkedIn:** https://www.linkedin.com/in/
+- **GitHub:** https://github.com/JQChua
+
+### Malvin
+- **LinkedIn:** https://www.linkedin.com/in/malvintok/
+- **GitHub:** https://github.com/malvintok
+
+### Sing Thai
+- **LinkedIn:** https://www.linkedin.com/in/sing-thai-tan/
+- **GitHub:** https://github.com/singthaitan
+
+### Walter
+- **LinkedIn:** https://www.linkedin.com/in/
+- **GitHub:** https://github.com/Walterlayzz
