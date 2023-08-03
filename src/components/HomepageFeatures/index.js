@@ -86,13 +86,13 @@ export default function HomepageFeatures() {
     <section className={styles.features}>
       <div className="container">
         <div className={clsx('row', styles.centerRow)} style={{ marginTop: '20px', marginBottom: '20px' }}>
-          <div className={clsx('col-md-6 text--center')} style={{ marginRight: '30px' }}>
+          <div className={clsx('col-md-6 text--center')} >
             <p className={clsx(styles['lexend-font'], styles.displayText)}>
               Ever face a <b style={{ fontSize: "30px", color: "#DD7373" }}>dilemma in decision-making</b><br /> for your donations?<br />Who to donate to? How much to donate?
             </p>
           </div>
-          <div className={clsx('col-md-6 justify-content-center', styles.addMarginLeft, styles.addMarginTop)}>
-            <video controls width="640" height="360" className={styles.videoStyling}>
+          <div className={clsx('col-md-6 justify-content-center', styles.addMarginLeft, styles.addMarginTop)} >
+            <video controls className={styles.videoStyling}>
               <source src={videoFile} type="video/mp4" />
             </video>
           </div>
