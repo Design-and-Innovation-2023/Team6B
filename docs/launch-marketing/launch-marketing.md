@@ -3,7 +3,7 @@ sidebar_position: 8
 ---
 
 # Launch & Marketing
-The launch strategy is centered around engaging users users from the start, fostering a community of givers who share a collective vision for a better world. This is a plan to make CharitAble known far and wide. To ensure a successful launch, an understanding of the key attrativeness of the platform is paramount. Then, the launch strategy and marketing efforts will follow along with the attractiveness of the platform.
+With the visual design already in place, the team can now leverage this well-crafted design to reinforce the key attractiveness of CharitAble with its launch and marketing efforts. The launch strategy is centered around engaging users users from the start, fostering a community of givers who share a collective vision for a better world. This is a plan to make CharitAble known far and wide. To ensure a successful launch, an understanding of the key attrativeness of the platform is paramount. Then, the launch strategy and marketing efforts will follow along with the attractiveness of the platform.
 
 ## Attraction & Appeal
 The following are the key attractiveness of the platform to appeal to users:
