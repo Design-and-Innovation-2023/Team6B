@@ -3,7 +3,7 @@ sidebar: none
 ---
 # Final Product
 
-View our final product here, however, please ensure to select the "Fit width" option at the top right to adjust the layout according to the screen or if you would like to try it in the Figma app, simply click the link provided at the end.
+View our final product here, however, please ensure to select the "Fit width" option at the top right to adjust the layout according to the screen or if you would like to try it in the Figma app, simply click [here](https://tinyurl.com/Team6BFinalDesign)
 
 <div style={{ width: '100%', height: '0', paddingBottom: '56.25%', position: 'relative' }}>
   <iframe
@@ -12,5 +12,3 @@ View our final product here, however, please ensure to select the "Fit width" op
     style={{ position: 'absolute', top: '0', left: '0', width: '100%', height: '100%' }}
   ></iframe>
 </div>
-
-https://tinyurl.com/Team6BFinalDesign

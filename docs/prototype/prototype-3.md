@@ -48,7 +48,7 @@ To ensure the prototype's effectiveness and user-friendliness, the team conducte
 With meticulous attention to detail and the insights gathered from user testing, the hi-fi prototype will offer a more immersive and polished representation of the application, enabling the team to further refine its functionality, interface, and user flow. The successful implementation of user interest selection and allocation to charities showcases the team's commitment to delivering a personalised and meaningful donation experience.
 
 ## Try Our Prototype!
-You can directly try this prototype below or if you would like to try it in the Figma app, simply click the link provided at the end.
+You can directly try this prototype below or if you would like to try it in the Figma app, simply click [here](https://tinyurl.com/Team6BPrototype3Figma)
 
 
 <div style={{ width: '100%', height: '0', paddingBottom: '56.25%', position: 'relative' }}>
@@ -61,4 +61,4 @@ You can directly try this prototype below or if you would like to try it in the 
 
 
 
-https://tinyurl.com/Team6BPrototype3Figma
+

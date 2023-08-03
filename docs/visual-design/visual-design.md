@@ -42,8 +42,8 @@ The imagery used focuses on showcasing positive impact through charitable action
 ![Imagery Example](../img/ImagerySample.jpg)
 The image above showcases the attributes of a photo used.
 
-## View Our Final Design on Figma!
-You can view our final design below or if you would like to view it in the Figma app, simply click the link provided at the end.
+## View Our Final Design!
+You can view our final design below or if you would like to view it in the Figma app, simply click [here](https://tinyurl.com/Team6BVisualDesign)
 <div style={{ width: '100%', height: '0', paddingBottom: '56.25%', position: 'relative' }}>
   <iframe
     src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FE77zN6Nmwc14UuebMuBXQ2%2FAuto-Donate-Web%3Ftype%3Ddesign%26node-id%3D0%253A1%26mode%3Ddev"
@@ -52,4 +52,3 @@ You can view our final design below or if you would like to view it in the Figma
   ></iframe>
 </div>
 
-https://tinyurl.com/Team6BVisualDesign

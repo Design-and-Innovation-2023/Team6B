@@ -42,7 +42,7 @@ In conclusion, the team's dedication to continuous improvement has led to the cr
 With the main feature of the application already tested through this prototype, the team can now proceed to work on the remaining parts of the application, including the implementation of additional features and functionalities like the login process. With users' interests and preferences already saved, CharitAble is well-positioned to recommend suitable charities, effectively alleviating any dilemma users may encounter while making donation decisions. The successful completion of the main feature's design has laid a strong foundation for CharitAble's development, ensuring a user-friendly and impactful platform for charitable giving.
 
 ## Try Our Prototype!
-You can directly try this prototype below or if you would like to try it in the Figma app, simply click the link provided at the end.
+You can directly try this prototype below or if you would like to try it in the Figma app, simply click [here](https://tinyurl.com/Team6BPrototype4Figma)
 
 <div style={{ width: '100%', height: '0', paddingBottom: '56.25%', position: 'relative' }}>
   <iframe
@@ -52,7 +52,5 @@ You can directly try this prototype below or if you would like to try it in the 
   ></iframe>
 </div>
 
-
-https://tinyurl.com/Team6BPrototype4Figma
 
 
