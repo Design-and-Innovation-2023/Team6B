@@ -81,6 +81,15 @@ const config = {
         sidebarPath: require.resolve('./sidebars.js'),
       }, 
     ],
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'docs-product',
+        path: 'docs-product',
+        routeBasePath: 'docs-product',
+        sidebarPath: false,
+      }, 
+    ],
 ],
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
@@ -103,6 +112,11 @@ const config = {
           {
             to: '/docs-dailies/day1', 
             label: 'Daily Journal', 
+            position: 'left'
+          },
+          {
+            to: '/docs-product/intro', 
+            label: 'Final Product', 
             position: 'left'
           },
           {
@@ -130,6 +144,10 @@ const config = {
               {
                 label: 'Daily Journal',
                 to: '/docs-dailies/day1',
+              },
+              {
+                label: 'Final Product',
+                to: '/docs-product/intro',
               },
               {
                 label: 'About Us',
