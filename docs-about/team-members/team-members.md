@@ -25,7 +25,7 @@ Bottom Row (Left to Right): Kurt, Atiqah, Jia Qi, Malvin, Top Row (Left to Right
 - **GitHub:** https://github.com/80qah
 
 ### Jia Qi
-- **LinkedIn:** https://www.linkedin.com/in/
+- **LinkedIn:** https://www.linkedin.com/in/jia-qi-chua-96b441261/
 - **GitHub:** https://github.com/JQChua
 
 ### Malvin
