@@ -48,6 +48,17 @@ To ensure the prototype's effectiveness and user-friendliness, the team conducte
 With meticulous attention to detail and the insights gathered from user testing, the hi-fi prototype will offer a more immersive and polished representation of the application, enabling the team to further refine its functionality, interface, and user flow. The successful implementation of user interest selection and allocation to charities showcases the team's commitment to delivering a personalised and meaningful donation experience.
 
 ## Try Our Prototype!
-To try prototype 3, simply click on the link provided below. While testing the prototype, please ensure to select the "Fit to screen" option to adjust the layout according to your screen size.
+You can directly try this prototype below or if you would like to try it in the Figma app, simply click the link provided at the end.
+
+
+<div style={{ width: '100%', height: '0', paddingBottom: '56.25%', position: 'relative' }}>
+  <iframe
+    src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FE77zN6Nmwc14UuebMuBXQ2%2FAuto-Donate-Web%3Ftype%3Ddesign%26node-id%3D113-20%26t%3DtOlQSx9wFMXwW35V-1%26scaling%3Dscale-down%26page-id%3D111%253A19%26starting-point-node-id%3D113%253A20%26mode%3Ddesign"
+    allowFullScreen
+    style={{ position: 'absolute', top: '0', left: '0', width: '100%', height: '100%' }}
+  ></iframe>
+</div>
+
+
 
 https://tinyurl.com/Team6BPrototype3Figma
