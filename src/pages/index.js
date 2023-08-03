@@ -23,8 +23,8 @@ function HomepageHeader() {
           </Link>
           <Link
             className="button button--secondary button--lg"
-            to="/docs/intro">
-              Try It Out ~
+            to="https://www.figma.com/proto/E77zN6Nmwc14UuebMuBXQ2/Auto-Donate-Web?type=design&node-id=502-391&t=vhcfDIjy7X4iw5TZ-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=502%3A391&mode=design">
+              Try It Out 👍
           </Link>
         </div>
       </div>
