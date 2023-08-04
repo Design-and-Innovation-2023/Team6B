@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcharit_able=self.webpackChunkcharit_able||[]).push([[1610],{5041:e=>{e.exports=JSON.parse('{"title":"Team Members","description":"Our Team Members.","slug":"/category/team-members","permalink":"/Team6B/docs-about/category/team-members","navigation":{"next":{"title":"Team Members","permalink":"/Team6B/docs-about/team-members/"}}}')}}]);
